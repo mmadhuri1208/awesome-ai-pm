@@ -235,6 +235,7 @@ MCP is becoming the standard for connecting AI tools to external services. OpenA
 - [AI Agents for PMs: Practical Guide](https://www.news.aakashg.com/p/ai-agents-pms) — The practical guide to building and using AI agents
 - [The Ultimate Guide to Context Engineering for PMs](https://www.news.aakashg.com/p/context-engineering) — How to give agents the right information
 - [RAG vs. Fine-tuning vs. Prompt Engineering](https://www.news.aakashg.com/p/rag-vs-fine-tuning-vs-prompt-engineering) — Choosing the right optimization approach
+- [Falkster AI Agent Army](https://falkster.com/handbook/ai-agent-army) — 44 free AI agent blueprints for product managers; each includes the prompt, an eval rubric, and a ship-readiness gate. No signup.
 
 ---
 
